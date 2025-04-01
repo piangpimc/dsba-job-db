@@ -1,1 +1,1 @@
-[🔗 Website Link]([https://github.com/piangpimc/dsba-job-db](https://dsba-job-search.streamlit.app/))
+[🔗 Website Link](https://github.com/piangpimc/dsba-job-db](https://dsba-job-search.streamlit.app/))
