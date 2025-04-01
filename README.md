@@ -43,8 +43,6 @@ To keep things fair and valuable for everyone, access to the database is **restr
 
 Finding a job is tough — but we don’t have to do it alone. By pooling our knowledge, we can help each other land interviews, prepare better, and feel more confident.
 
-> _"If you want to go fast, go alone. If you want to go far, go together."_ — African Proverb
-
 ---
 
 ## 🚀 Contribute
