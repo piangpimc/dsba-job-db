@@ -47,7 +47,7 @@ Finding a job is tough — but we don’t have to do it alone. By pooling our kn
 
 ## 🚀 Contribute
 
-This project is free and open to all DSBA students. Have an idea for improvement? Submit a feature request or drop a suggestion in the feedback form on the site.
+This project is free and open to all DSBA students. Have an idea for improvement? Submit a feature request!
 
 Let’s make job hunting a little less lonely and a lot more effective.
 
